@@ -1,0 +1,18 @@
+<resources>
+  <string name="share_wechat">微信好友</string>
+  <string name="share_wechatcircle">朋友圈</string>
+  <string name="share_weibo">微博</string>
+  <string name="share_qq">QQ好友</string>
+  <string name="share_qzone">QQ空间</string>
+  <string name="message">短信</string>
+  <string name="install_qq">请安装QQ客户端</string>
+  <string name="install_weixin">请安装微信客户端</string>
+  <string name="install_weibo">暂不支持Web分享,请安装微博客户端</string>
+
+  <string name="auth_success">认证成功</string>
+  <string name="auth_failed">认证失败</string>
+  <string name="auth_cancel">认证取消</string>
+  <string name="auth_error">认证异常</string>
+
+  <string name="unsupport">认证异常</string>
+</resources>
